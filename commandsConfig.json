@@ -1,0 +1,13 @@
+{
+  "addpin": true,
+  "updateinfo": true,
+  "checksubscription": true,
+  "deletepin": true,
+  "searchpin": true,
+  "updateexpiry": true,
+  "viewpins": true,
+  "auditreport": true,
+  "pussio": true,
+  "serverconfig": true,
+  "dashbaord": true
+}

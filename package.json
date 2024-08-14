@@ -1,0 +1,32 @@
+{
+  "name": "pinbot-sawhub",
+  "version": "4.0.0",
+  "description": "A Discord bot for database management for Sawhub",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "audit": "npm audit"
+  },
+  "dependencies": {
+    "@discordjs/collection": "latest",
+    "@discordjs/formatters": "latest",
+    "@discordjs/rest": "latest",
+    "axios": "latest",
+    "dayjs": "latest",
+    "discord.js": "latest",
+    "dotenv": "latest",
+    "glob": "^11.0.0",
+    "mongoose": "latest",
+    "node-cron": "^3.0.3",
+    "winston": "latest"
+  },
+  "devDependencies": {
+    "nodemon": "latest"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
